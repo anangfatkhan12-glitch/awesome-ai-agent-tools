@@ -164,6 +164,8 @@ Top 5 shown:
 | Name | Description | Source |
 | ---- | ----------- | ------ |
 
+npx skills add anthropics/skills --skill skill-creator
+
 ## Contributing
 
 We welcome contributions. You can:
